@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**forminju/forminju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Status
+- undergraduate AI researcher in Hanyang University Multimodal AI Lab (https://sites.google.com/view/hyu-mm)
+- Image captioning, Domain Adaptation, Contrastive Learning
 
-Here are some ideas to get you started:
+## Competitions
+2023 GoDaddy-Microbusiness Density Forecasting (Kaggle, top 10%)
+2023 4Dblock Structure Extraction AI Competition (4DLand, top 9%)
+2022 Lettuce Growth Environment Generation AI Competition (KIST, 4th)
+2022 Tangerine Harvest Quantity Prediction AI Competition (JEJU TECHNOPARK, bronze, 7th)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Paper
+

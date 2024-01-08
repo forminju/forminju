@@ -18,7 +18,8 @@
 * [2023 deep-look 나와 닮은 유명인 찾기](https://deep-look.vercel.app/)
 
 ### Paper
-
+* IPIU 2024 이미지 캡셔닝에서 어댑터를 활용한 효율적 이미지 검색 방법론
+  
 ### Solved
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mnju5026)](https://solved.ac/mnju5026/)
 

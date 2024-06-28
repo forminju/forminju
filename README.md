@@ -18,7 +18,7 @@
 
 ### Paper
 * 이미지 캡셔닝에서 어댑터를 활용한 효율적 이미지 검색 방법론 (IPIU2024)
-* 태그정보를 활용한 이미지 검색 모듈 프롬프팅 (2024 대한전자공학회 하계종합학술대회)
+* 태그정보를 활용한 이미지 검색 모듈 프롬프팅 (2024 대한전자공학회 하계종합학술대회, 우수학생논문상)
   
 ### Solved
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mnju5026)](https://solved.ac/mnju5026/)

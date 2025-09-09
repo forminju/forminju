@@ -8,3 +8,6 @@
 ### Solved
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mnju5026)](https://solved.ac/mnju5026/)
 
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={mnju5026}" alt="LeetCode Badges" />
+
